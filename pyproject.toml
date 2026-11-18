@@ -15,8 +15,8 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.10"
-nisystemlink-clients = "^2.31.0"
+python = "^3.11"
+nisystemlink-clients = "^2.37.0"
 requests = "^2.32.5"
 urllib3 = "^2.6.0"
 
